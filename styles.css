@@ -5,3 +5,76 @@ body {
       font-family: 'Arial', sans-serif;
       margin: 0;
       padding: 0;
+          
+} 
+.hahah{
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.438);
+  opacity: 1;
+}
+
+.haha{
+  font-size: 100px;
+  color: rgba(165, 42, 42, 0.447);
+  opacity: 0.5;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+  font-size: 30px;
+  color: #918282;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+      justify-content: flex-end;
+      align-items: right;
+      padding: 10px;
+      font-size: 50px;
+      font-weight: bold;
+}
+
+.main-content, .menu, .contact {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+h2, p{
+  font-family:Georgia, 'Times New Roman'
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   
+  }
+  .button1 {
+    background-color: white;
+    color: rgb(248, 235, 235);
+    border: 2px solid #04AA6D;  
+  }
+  
+  .button1:hover {
+    background-color: #04AA6D;
+    color: white;
+  }
