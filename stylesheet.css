@@ -1,0 +1,35 @@
+body {
+    background-image: url("coffee.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: 1550px 800px;
+   }
+
+h2{
+       color: tan;
+       font-size:  80px;
+       left: 0;
+       line-height: 0px;
+       margin-top: -100px;
+       position: absolute;
+       text-align: center;
+       top: 50%;
+       width: 100%;
+       text-shadow:2px 2px 8px #5e381d;
+}
+
+
+
+   h1{
+	color: saddlebrown;
+	font-size: 200px;
+	left: 0;
+	line-height: 200px;
+	margin-top: -100px;
+	position: absolute;
+	text-align: center;
+	top: 50%;
+	width: 100%;
+    text-shadow:2px 2px 8px #5e381d;
+   
+}
