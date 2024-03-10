@@ -33,3 +33,38 @@ h2{
     text-shadow:2px 2px 8px #5e381d;
    
 }
+.koopi{
+	color: #331403;
+	font-size: 40px;
+		left: 0;
+	line-height: 0px;
+	margin-top: 160px;
+	position: absolute;
+	text-align: center;
+	top: 50%;
+	width: 100%;
+	font-family: 'Times New Roman', Times, serif;
+    text-shadow:2px 2px 8px #140c06;
+	 
+}
+
+.koopi:hover {
+	color: brown;
+  }
+  .koopi:link {
+	text-decoration: none;
+  }
+
+
+  p{
+	font-size: 40px;
+		left: 0;
+	line-height: 0px;
+	margin-top: 130px;
+	position: absolute;
+	text-align: center;
+	top: 50%;
+	width: 100%;
+	color: saddlebrown;
+    text-shadow:2px 2px 8px #5e381d;
+}
