@@ -141,7 +141,7 @@ header{
     transition: transform 300ms ease-in-out;
     
 
-    transform: scalex(0);
+   transform: scalex(0);
 }
 .nav__links li a:hover::before,.nav__links li a:focus::before{
     
