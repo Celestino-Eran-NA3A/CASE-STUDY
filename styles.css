@@ -503,3 +503,86 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     font-size: 20px;
 
   }
+  .container form textarea{
+    padding: 5px 15px;
+    border: 1px solid #ffe8dd;
+    border-radius: 3px;
+    background: #181717;
+    padding: 0 15px;
+    font-size: 20px;
+    width: 92%;
+    margin: 4px 0;
+  }
+  .bili form input{
+    position: inherit;
+    height: 35px;
+    font-size: 30px;
+  }
+  .bili select{
+    height: 35px;
+    font-size: 30px;
+  }
+  .ji{
+    font-size: 35px;
+    width: 52%;
+    cursor: pointer;
+    
+  }
+  .eran{
+    font-size: 32px;
+    width: 84%;
+    margin-top: -315px;
+  }
+  .xhie{
+    font-size: 32px;
+    margin-top: -312px;
+    width: 117.5%;
+  }
+  .mj{
+    font-size: 35px;
+    margin-top: -315px;
+    width: 150%;
+  }
+.jii{
+
+  margin-top: -5px;
+
+
+
+}
+
+
+.container1{
+  display: flex;
+  margin: 50px;
+  }
+  .container2{
+    display: flex;
+    margin: 50px;
+    }
+    .container3{
+      display: flex;
+      margin: 50px;
+      }
+      .container4{
+        display: flex;
+        margin: 50px;
+        }
+
+ 
+.product-card1 {
+    border-radius: 8px;
+    padding: 110px;
+    margin: 30px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    opacity: 1;
+    transition: transform 0.3s ease-in-out;
+    height: 250px;
+    width: 200px; 
+
+flex: 1; /* Distribute available space equally */
+    
+
+}
+
