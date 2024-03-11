@@ -122,3 +122,20 @@ h2, p{
   background-color: #008CBA;
   color: white;
 }
+ 
+body{
+  scrollbar-color: #693d15;
+  scrollbar-width: thin;}
+body {
+  background-image:linear-gradient(to left, rgba(0, 0, 0, 0.662), rgba(42, 20, 2, 0.881)), url('pic3.avif');
+  overflow:auto;
+  background-repeat: no-repeat;
+  background-size:cover; 
+  
+  
+  background-position:initial;
+  text-align: center;
+  justify-content: center;
+  animation: change 30s infinite ease;
+  
+}
