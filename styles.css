@@ -673,3 +673,61 @@ flex: 1; /* Distribute available space equally */
    
 
 }
+
+.product-card3:hover {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 110px;
+  margin: 30px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  opacity: 1;
+  transform: scale(1.2);
+
+flex: 1; 
+   
+}
+
+
+.product-card3 h2,p {
+font-size: 15px;    
+color: #333;
+}
+
+
+
+
+
+.product-card4 {
+  border-radius: 8px;
+  padding: 110px;
+  margin: 30px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+  opacity: 1;
+  transition: transform 0.3s ease-in-out;
+  height: 250px;
+  width: 200px;   
+flex: 1; /* Distribute available space equally */
+    
+}
+
+
+.product-card4:hover {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 110px;
+  margin: 30px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  opacity: 1;
+  transform: scale(1.2);
+flex: 1; /* Distribute available space equally */
+    
+}
+
+
+.product-card4 h2,p {
+font-size: 15px;    
+color: #333;
+}
