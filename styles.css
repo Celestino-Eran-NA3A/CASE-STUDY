@@ -163,7 +163,7 @@ body {
     background-image:linear-gradient(to left, rgba(0, 0, 0, 0.662), rgba(42, 20, 2, 0.881)), url(picccc.jpg);
   }
   }
-  
+
   footer{
 
     background-color: black;
@@ -283,3 +283,87 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
   .latte:hover{
     transform: scale(1.1);
   }  
+  .americano2 {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 8px #000000;
+    font-weight: bold;
+    font-size: 20px;
+    transition: transform 1s;
+ 
+  }
+.americano2:hover{
+  transform: scale(1.1);
+  }
+
+.americano {
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 8px #000000;
+  font-weight: bold;
+  font-size: 20px;
+ 
+}
+
+
+.macchiato2{
+
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 8px #000000;
+    font-weight: bold;
+    font-size: 20px;
+    transition: transform 1s;
+ 
+  }
+.macchiato2:hover{
+  transform: scale(1.1);
+}
+
+
+  .macchiato {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 8px #000000;
+    font-weight: bold;
+    font-size: 20px;
+   
+  
+  }
+  .matcha {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 8px #000000;
+    font-weight: bold;
+    font-size: 20px;
+   
+  
+  }
+  .matcha2{
+
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 8px #000000;
+    font-weight: bold;
+    font-size: 20px;
+    transition: transform 1s;
+ 
+  }
+.matcha2:hover{
+  transform: scale(1.1);
+}
+
+
+
+  button{
+    font-family: sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      color: rgb(173, 117, 5);
+      text-decoration: none;
+  }
+  
+  li, a{
+      font-family: sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      color: rgb(252, 250, 249);
+      text-decoration: none;
+  }
+  
+  
+  
