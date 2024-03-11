@@ -139,3 +139,52 @@ header{
     height: var(--border-size);
     background-color: var(--accent-color);
     transition: transform 300ms ease-in-out;
+    
+
+   transform: scalex(0);
+}
+.nav__links li a:hover::before,.nav__links li a:focus::before{
+    
+
+    transform: scalex(1);
+}
+button{
+    margin-left: 20px;
+    padding: 9px 25px;
+    background-color: #dbaf91;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer; 
+    transition: all 0.3s ease 0s;
+
+}
+
+button:hover{
+    background-color: #5e381d;
+}
+
+button::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: var(--border-size);
+    background-color: var(--accent-color);
+    transition: transform 300ms ease-in-out;
+
+
+   transform: scalex(0);
+}
+ button:hover::before,button:focus::before{
+    
+
+    transform: scalex(1);
+}
+
+.contact{
+	color: #fff;
+font-size: x-large;
+text-align: center;
+
+}
