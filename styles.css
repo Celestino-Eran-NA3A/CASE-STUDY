@@ -139,3 +139,28 @@ body {
   animation: change 30s infinite ease;
   
 }
+
+@keyframes change{
+  0%
+  {
+  
+    background-image:linear-gradient(to left, rgba(0, 0, 0, 0.662), rgba(42, 20, 2, 0.881)), url(kopi.jpg);
+  }
+  30%
+  {
+  
+    background-image:linear-gradient(to left, rgba(0, 0, 0, 0.662), rgba(42, 20, 2, 0.881)), url(picccccc.jpg);
+  }
+  60%
+  {
+  
+    background-image:linear-gradient(to left, rgba(0, 0, 0, 0.662), rgba(42, 20, 2, 0.881)), url(piccc.jpg);
+  }
+  100%
+  
+  {
+  
+    background-image:linear-gradient(to left, rgba(0, 0, 0, 0.662), rgba(42, 20, 2, 0.881)), url(picccc.jpg);
+  }
+  }
+  
